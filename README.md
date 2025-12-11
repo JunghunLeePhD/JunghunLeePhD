@@ -2,7 +2,9 @@
 
 ### 📐 PhD in Mathematics | 📊 Quantitative Researcher | 📉 Certified Statistician
 
-I am a quantitative researcher and mathematician based in **Japan**, specializing in **numerical analysis**, **chaotic dynamical systems**, and **number theory**. My work bridges the gap between pure mathematics and high-performance computing.
+Quantitative researcher and mathematician based in **Japan**, specializing in **numerical analysis**, **chaotic dynamical systems**, and **number theory** to bridge the gap between pure mathematics and high-performance computing.
+
+<a href="https://junghunleephd.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Website-Portfolio-ff69b4?style=for-the-badge&logo=vercel" alt="Website" /></a>
 
 ---
 
@@ -38,12 +40,3 @@ I am a quantitative researcher and mathematician based in **Japan**, specializin
 | **[HS-Julia](https://github.com/JunghunLeePhD/HS-Julia)** | Visualizing the Julia set of quadratic complex polynomials. | Haskell |
 | **[HS-NumericalSemiGroup](https://github.com/JunghunLeePhD/HS-NumericalSemiGroup)** | Computing the density of prime numbers in numerical semigroups. | Haskell |
 | **[CPP-LFunction](https://github.com/JunghunLeePhD/CPP-LFunction)** | Web application to compute Dirichlet L-function with C++ backend. | C++ / JS |
-
----
-
-### 📫 Connect with Me
-
-<p align="left">
-<a href="https://junghunleephd.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Website-Portfolio-ff69b4?style=for-the-badge&logo=vercel" alt="Website" /></a>
-<!-- <a href="mailto:YOUR_EMAIL_HERE"><img align="center" src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" /></a> -->
-</p>
