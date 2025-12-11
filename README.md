@@ -33,12 +33,6 @@ I am a quantitative researcher and mathematician based in **Japan**, specializin
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JunghunLeePhD&show_icons=true&theme=radical&count_private=true" alt="JunghunLeePhD Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunghunLeePhD&layout=compact&theme=radical&languages_count=6" alt="JunghunLeePhD Languages" />
-</div>
-
 <br/>
 
 <div align="center">
