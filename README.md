@@ -29,16 +29,6 @@ I am a quantitative researcher and mathematician based in **Japan**, specializin
 
 ---
 
-### 📊 GitHub Analytics
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JunghunLeePhD&theme=radical" alt="JunghunLeePhD Streak" />
-</div>
-
----
-
 ### 🚀 Featured Mathematical Projects
 
 | Project | Description | Language |
