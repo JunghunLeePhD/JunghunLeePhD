@@ -4,12 +4,6 @@
 
 I am a quantitative researcher and mathematician based in **Japan**, specializing in **numerical analysis**, **chaotic dynamical systems**, and **number theory**. My work bridges the gap between pure mathematics and high-performance computing.
 
-- 🔭 I’m currently working on **visualizing chaotic dynamical systems** and **L-functions**.
-- 👯 I’m looking to collaborate on **Quantitative Finance** and **High-Performance C++** projects.
-- 💬 Ask me about **Stochastic Calculus, Riemann Zeta Functions, and Haskell**.
-- ⚡ Fun fact: I build libraries to visualize complex mathematical fractals like the Julia set.
-- 🌐 **Portfolio:** [junghunleephd.vercel.app](https://junghunleephd.vercel.app/)
-
 ---
 
 ### 🛠️ Languages & Tools
