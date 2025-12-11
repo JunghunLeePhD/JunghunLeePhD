@@ -49,6 +49,7 @@ I am a quantitative researcher and mathematician based in **Japan**, specializin
 | **[CPP-Zeta](https://github.com/JunghunLeePhD/CPP-Zeta)** | Compute and visualize values of the Riemann zeta-function. | C++ |
 | **[HS-Julia](https://github.com/JunghunLeePhD/HS-Julia)** | Visualizing the Julia set of quadratic complex polynomials. | Haskell |
 | **[HS-NumericalSemiGroup](https://github.com/JunghunLeePhD/HS-NumericalSemiGroup)** | Computing the density of prime numbers in numerical semigroups. | Haskell |
+| **[CPP-LFunction](https://github.com/JunghunLeePhD/CPP-LFunction)** | Web application to compute Dirichlet L-function with C++ backend. | C++ / JS |
 
 ---
 
