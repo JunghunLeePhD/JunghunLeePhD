@@ -28,6 +28,7 @@ Quantitative researcher and mathematician based in **Japan**, specializing in **
   <img src="https://img.shields.io/badge/Japanese-BC002D?style=for-the-badge" />
   <img src="https://img.shields.io/badge/English-1a73e8?style=for-the-badge" />
 </p>
+
 ---
 
 ### 🚀 Featured Mathematical Projects
@@ -39,3 +40,11 @@ Quantitative researcher and mathematician based in **Japan**, specializing in **
 | **[HS-Julia](https://github.com/JunghunLeePhD/HS-Julia)** | Visualizing the Julia set of quadratic complex polynomials. | Haskell |
 | **[HS-NumericalSemiGroup](https://github.com/JunghunLeePhD/HS-NumericalSemiGroup)** | Computing the density of prime numbers in numerical semigroups. | Haskell |
 | **[CPP-LFunction](https://github.com/JunghunLeePhD/CPP-LFunction)** | Web application to compute Dirichlet L-function with C++ backend. | C++ / JS |
+
+---
+
+### ⚡ Experiments & Prototypes
+
+| Project | Description | Language |
+| :--- | :--- | :--- |
+| **[HTML-DocToMD](https://github.com/JunghunLeePhD/HTML-DocToMD)** | Mini Web application to convert docs-like text to markdown text. | HTML/JS/CSS |
