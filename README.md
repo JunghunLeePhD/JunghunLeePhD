@@ -47,5 +47,5 @@ Quantitative researcher and mathematician based in **Japan**, specializing in **
 
 | Project | Description | Language |
 | :--- | :--- | :--- |
-| **[HTML-DocToMD](https://github.com/JunghunLeePhD/HTML-DocToMD)** | Mini Web application to convert docs-like text to markdown text. | HTML/JS/CSS |
+| **[HTML-DocToMD](https://github.com/JunghunLeePhD/HTML-DocToMD)** | Web application to convert docs-like text to markdown text. | HTML/JS/CSS |
 | **[JS-PoolCalendar](https://github.com/JunghunLeePhD/JS-PoolCalendar)** | Automation to get the month schedule of Fukuoka West Civic Pool. | JS |
