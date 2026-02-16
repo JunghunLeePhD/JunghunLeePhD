@@ -48,7 +48,6 @@ Quantitative researcher and mathematician based in **Japan**, specializing in **
 | Project | Description | Language |
 | :--- | :--- | :--- |
 | **[HTML-DocToMD](https://github.com/JunghunLeePhD/HTML-DocToMD)** | [Web App](https://junghunleephd.github.io/HTML-DocToMD/) to convert docs-like text to markdown text. | HTML/JS/CSS |
-
 | **[Py-ExcelManipulator](https://github.com/JunghunLeePhD/Py-ExcelManipulator)** | [Web App](https://huggingface.co/spaces/JunghunleePhD/Py-ExcelManipulator) to merge excel files into one csv file. | Python |
 
 
