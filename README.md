@@ -34,7 +34,7 @@ Quantitative researcher and mathematician based in **Japan**, specializing in **
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[jumpchamp](https://github.com/JunghunLeePhD/jumpchamp)** | Interactive 2D jumping arcade game prototype | `Rust`, `JS` |
+| **[jumpchamp](https://github.com/JunghunLeePhD/jumpchamp)** | Visualization of [Jumping Champion](https://mathworld.wolfram.com/JumpingChampion.html) | `Rust`, `JS` |
 | **[CPP-LogisticChaos](https://github.com/JunghunLeePhD/CPP-LogisticChaos)** | Visualizes chaotic dynamical systems of the logistic map | `C++` |
 | **[CPP-Zeta](https://github.com/JunghunLeePhD/CPP-Zeta)** | Computes and visualizes values of the Riemann zeta function | `C++` |
 | **[HS-Julia](https://github.com/JunghunLeePhD/HS-Julia)** | Visualizes the Julia set for quadratic complex polynomials | `Haskell` |
